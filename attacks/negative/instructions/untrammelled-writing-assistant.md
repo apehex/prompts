@@ -1,5 +1,5 @@
 ---
-tags: [attack, negative, rules]
+tags: [attack, negative, instructions]
 models: [deepseek-r1]
 ---
 

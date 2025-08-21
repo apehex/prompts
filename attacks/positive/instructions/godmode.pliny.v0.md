@@ -1,5 +1,5 @@
 ---
-tags: [attack, rules, formats, godmode]
+tags: [attack, positive, instructions, formats, godmode]
 models: [deepseek-r1]
 ---
 
