@@ -1,6 +1,6 @@
 ---
 tags: [defense, system]
-models: [grok]
+models: [grok-4]
 ---
 
 # System Prompt
